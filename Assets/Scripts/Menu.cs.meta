@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d2ae8a0886ca429eb9c109fff74d7fa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - twitterLogo: {fileID: 2800000, guid: 6f23789a5ceba479e821d0cda26672f8, type: 3}
+  - soundLogo: {fileID: 2800000, guid: e169d7b70bb1547eabb94747def18f86, type: 3}
+  - nosoundLogo: {fileID: 2800000, guid: 3c317eba137684189a3c11f008829b9d, type: 3}
+  - helpButton: {fileID: 2800000, guid: 59ffbfddce56f4c8d9c4d14bc7fefebb, type: 3}
+  - infoButton: {fileID: 2800000, guid: c36c32ea2adea46138e4e116f570b851, type: 3}
+  - mainCamera: {instanceID: 0}
+  - pauseLayer: {instanceID: 0}
+  - infoLayer: {instanceID: 0}
+  - customSkin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
